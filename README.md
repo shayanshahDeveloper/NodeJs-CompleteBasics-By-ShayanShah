@@ -7,3 +7,4 @@ This repository provides a comprehensive introduction to the fundamentals of Nod
 * File System (fs) Module: Explore file operations like reading, writing, and deleting files.
 *  Each topic includes code examples and explanations to help beginners grasp the core concepts of Node.js. This repository is a valuable resource for those starting their journey with Node.js and backend development.
 
+[<img src="https://github.com/user-attachments/assets/86fc1b36-ccf0-4300-99a2-cb4a31d73a8b" width="150" alt="Buy Me a Coffee">](https://buymeacoffee.com/shayanshahdev)
